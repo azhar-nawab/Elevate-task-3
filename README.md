@@ -23,3 +23,4 @@ state.log: Terraform state list log.
 destroy.log: Terraform destroy log.
 Outcome
 Successfully provisioned and destroyed an Nginx container using Infrastructure as Code principles with Terraform.
+git commit -m "Add content"
