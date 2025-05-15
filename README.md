@@ -11,7 +11,7 @@ Wrote main.tf to provision an Nginx container.
 - terraform init (see init.log)
 - terraform plan (see plan.log)
 - terraform apply (see apply.log)
-- terraform state list (see state.log)
+-  terraform state list (see state.log)
 - terraform destroy (see destroy.log)
 - Verified the container with docker ps and curl localhost:8080.
 # Files
