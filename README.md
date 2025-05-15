@@ -1,6 +1,6 @@
 ```This repository contains the solution for provisioning a Docker container using Terraform on an AWS t2.micro Ubuntu instance.
 
-Task Overview
+      ## Task Overview ##
 Objective: Provision a local Docker container using Terraform.
 Tools: Terraform, Docker.
 Deliverables: main.tf, execution logs.
@@ -22,4 +22,4 @@ apply.log: Terraform apply log.
 state.log: Terraform state list log.
 destroy.log: Terraform destroy log.
 Outcome
-Successfully provisioned and destroyed an Nginx container using Infrastructure as Code principles with Terraform.```
+Successfully provisioned and destroyed an Nginx container using Infrastructure as Code principles with Terraform.
